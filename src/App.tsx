@@ -90,7 +90,7 @@ const App: React.FC = () => {
           <h2 className="text-3xl font-bold mb-12">Book a Meeting</h2>
           <div className="w-full max-w-2xl mx-auto">
             <iframe
-              src="https://calendly.com/booking-appointments-calendly/booking-appointments"
+              src="https://calendly.com/booking-appointments-calendly/booking-appointments-discussion"
               width="100%"
               height="600"
               frameBorder="0"
